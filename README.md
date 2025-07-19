@@ -1,4 +1,4 @@
-# open-books (English)
+# open-books 
 
 ## Table of Contents
 - [Description](#description)
@@ -27,7 +27,7 @@ We welcome contributions to expand the `open-books` technical book collection. T
 ## License
 This repository and its contents are licensed under the [Creative Commons Attribution 4.0 International License](LICENSE.md), unless otherwise specified for individual books. You are free to share and adapt the materials, provided you give appropriate credit.
 
-# open-books (中文)
+# open-books 
 
 ## 目录
 - [描述](#描述)
